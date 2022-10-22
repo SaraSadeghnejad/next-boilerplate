@@ -1,0 +1,68 @@
+{
+  "form": {
+    "username": "Username",
+    "phoneNumber":"Phone Number",
+    "Password": "Password",
+    "register":"Register",
+    "forgetpassword":"Forget Password",
+    "login":"Login",
+    "rememberMe":"Remember Me",
+    "Have_account":"Have Account?",
+    "name":"Name",
+    "lastName": "Last Name",
+    "email" : "Email",
+    "passwordConfirmation": "Password Confirmation",
+    "Already have an account?": "Already have an account?",
+    "I agree to terms and conditions": "I agree to terms and conditions",
+    "send": "Send",
+    "Please enter your contact number": "Please enter your contact number",
+    "Password recovery": "Password recovery",
+    "back to login": "Back to login",
+    "Enter Auth Code": "Enter Auth Code",
+    "submit": "Submit",
+    "resend the code": "Resend the code"
+  },
+
+  "rial": "Rial",
+
+  "table": {
+    "title": "Title",
+    "referred to": "Referred to",
+    "status" : "Status",
+    "delivery date": "Delivery date",
+    "priority" : "Priority",
+    "observer" : "Observer",
+    "Add unit" : "Add unit"
+  },
+
+  "pageTitles" : {
+    "my tasks" : "My tasks",
+    "last charge bill" : "Last charge bill",
+    "messages" : "Messages",
+    "building Charge" : "Building Charge"
+  },
+
+  "factor": {
+    "cost type": "Cost type",
+    "charge amount of the current month": "Charge amount of the current month",
+    "unshared charges": "Unshared charges",
+    "penalty for late charging": "Penalty for late charging",
+    "total": "Total",
+    "the amount payable": "The amount payable",
+    "payment": "Payment",
+    "unit share": "Unit share"
+  },
+
+  "names": {
+    "Hossein Ahmadpanah": "Hossein Ahmadpanah",
+    "Mohammad Shabani": "Mohammad Shabani",
+    "Hamed Assar": "Hamed Assar",
+    "AmirHossein Khorammian": "AmirHossein Khorammian"
+  },
+  
+  "navMenu": {
+    "unit": "Unit",
+    "position": "Position",
+    "financial": "Financial"
+  }
+}

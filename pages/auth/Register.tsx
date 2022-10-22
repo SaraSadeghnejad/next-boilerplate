@@ -24,7 +24,7 @@ const Register = () => {
                         <Row className='d-flex flex-sm-row-reverse flex-lg-row'>
                             <Col xl="6" lg="6" md="4" xs="7" className="d-flex justify-content-center align-items-center m-md-auto ms-auto px-4 py-0">
                                 <Grid container alignItems="center" justifyContent="end">
-                                    <Image src="/static/images/auth/Fingerprint.png" alt="register"
+                                    <Image src="/static/images/auth/Register.png" alt="register"
                                         width={500}
                                         height={500}
                                     />
@@ -36,9 +36,7 @@ const Register = () => {
                                         <Col xs="8">
                                             <span className={`login-type ${router.locale === "fa" ? "text-right" : "text-left"}`}>{t("form.register")}</span>
                                         </Col>
-                                        <Col xs="3">
-                                            <img src="/static/images/logo/BiziLogoBlue.svg" alt="" style={{ width: '10em', margin: '0 auto 1em auto' }} />
-                                        </Col>
+                                        
                                     </Row>
                                     <AuthRegister />
                                     <SelectLanguage />

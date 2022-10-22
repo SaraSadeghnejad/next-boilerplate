@@ -19,7 +19,7 @@ const Validation = () => {
                         <Row className='d-flex flex-xl-row flex-sm-row-reverse align-items-center'>
                             
                             <Col xl="6" lg="6" md="4" xs="10" className="d-flex justify-content-center align-items-center m-md-auto ms-auto p-4">
-                                <img src="/static/images/auth/Enter.png" alt="validation" />
+                                <img src="/static/images/auth/valid.png" alt="validation" />
 
                             </Col>
 

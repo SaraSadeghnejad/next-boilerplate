@@ -49,7 +49,7 @@ function MyApp(props: TokyoAppProps) {
     <CacheProvider value={emotionCache}>
       
       <Head>
-        <title>Bizi</title>
+        <title>Next Boilerplate</title>
         <meta
           name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no"

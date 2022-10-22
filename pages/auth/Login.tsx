@@ -15,13 +15,11 @@ const Login = () => {
           <Col xl="8" lg="12" md="12">
             <Row className='d-flex flex-lg-row-reverse'>
               <Col xl="6" lg="6" md="4" xs="6" className="p-4 d-flex justify-content-center align-items-center m-md-auto ms-auto">
-                <img src="/static/images/auth/login-img.png" alt="login" />
+                <img src="/static/images/auth/login.jpg" alt="login" />
               </Col>
               <Col xl="6" lg="6" md="12" className="px-4 py-2 d-flex justify-content-center">
                 <AuthCardWrapper>
-                  <Stack>
-                    <img src="/static/images/logo/BiziLogoBlue.svg" alt="" style={{ width: '10em', margin: '0 auto 1em auto' }} />
-                  </Stack>
+               
                   <AuthLogin />
                   <SelectLanguage />
                 </AuthCardWrapper>
